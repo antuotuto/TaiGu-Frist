@@ -661,7 +661,9 @@ li a {
   display: block;
 }
 
+
 /*flow page*/
+
 .flowBackground {
   background-image: url("../images/flowBackground.png");
   background-size: 100% 100%;
@@ -683,6 +685,7 @@ li a {
   height: 148px;
   display: none;
 }
+
 .techColorDesktop {
   background-image: url("../images/techColorDesktop.png");
   background-size: 100% 100%;
@@ -693,6 +696,7 @@ li a {
   height: 145px;
   display: none;
 }
+
 .flowClock1 {
   background-image: url("../images/flowClock1.png");
   background-size: 100% 100%;
@@ -703,6 +707,7 @@ li a {
   height: 150px;
   display: none;
 }
+
 .flowInterview {
   background-image: url("../images/flowInterview.png");
   background-size: 100% 100%;
@@ -713,6 +718,7 @@ li a {
   height: 156.5px;
   display: none;
 }
+
 .flowClock2 {
   background-image: url("../images/flowClock2.png");
   background-size: 100% 100%;
@@ -723,6 +729,7 @@ li a {
   height: 150px;
   display: none;
 }
+
 .flowApprove {
   background-image: url("../images/flowApprove.png");
   background-size: 100% 100%;
@@ -733,6 +740,7 @@ li a {
   height: 120px;
   display: none;
 }
+
 .flowEntry {
   background-image: url("../images/flowEntry.png");
   background-size: 100% 100%;
@@ -743,6 +751,7 @@ li a {
   height: 120.5px;
   display: none;
 }
+
 .flowCalendar {
   background-image: url("../images/flowCalendar.png");
   background-size: 100% 100%;
@@ -753,6 +762,7 @@ li a {
   height: 150px;
   display: none;
 }
+
 .flowRow {
   background-image: url("../images/flowRow.png");
   background-size: 100% 100%;
@@ -762,6 +772,7 @@ li a {
   width: 676.5px;
   height: 907.5px;
 }
+
 .flowLogo {
   background-image: url("../images/flowLogo.png");
   background-size: 100% 100%;
