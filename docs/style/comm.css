@@ -574,6 +574,7 @@ body {
   top: 0px;
   width: 750px;
   height: 3148px;
+  overflow: hidden;
 }
 
 .sun {
