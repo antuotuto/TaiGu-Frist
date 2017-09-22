@@ -683,7 +683,6 @@ li a {
   top: 276px;
   width: 108px;
   height: 148px;
-  display: none;
 }
 
 .techColorDesktop {
@@ -694,7 +693,6 @@ li a {
   top: 511.5px;
   width: 182px;
   height: 145px;
-  display: none;
 }
 
 .flowClock1 {
@@ -705,7 +703,6 @@ li a {
   top: 511.5px;
   width: 108px;
   height: 150px;
-  display: none;
 }
 
 .flowInterview {
@@ -716,7 +713,6 @@ li a {
   top: 742.5px;
   width: 182.5px;
   height: 156.5px;
-  display: none;
 }
 
 .flowClock2 {
@@ -727,7 +723,6 @@ li a {
   top: 749px;
   width: 108px;
   height: 150px;
-  display: none;
 }
 
 .flowApprove {
@@ -738,7 +733,6 @@ li a {
   top: 983px;
   width: 90.5px;
   height: 120px;
-  display: none;
 }
 
 .flowEntry {
@@ -749,7 +743,6 @@ li a {
   top: 982px;
   width: 61px;
   height: 120.5px;
-  display: none;
 }
 
 .flowCalendar {
@@ -760,7 +753,6 @@ li a {
   top: 274px;
   width: 108.5px;
   height: 150px;
-  display: none;
 }
 
 .flowRow {
@@ -781,7 +773,6 @@ li a {
   top: 45px;
   width: 210.5px;
   height: 64px;
-  display: none;
 }
 
 .flowEnd {
@@ -792,7 +783,6 @@ li a {
   top: 926px;
   width: 118px;
   height: 115px;
-  display: none;
 }
 
 .flowBegin {
@@ -803,5 +793,4 @@ li a {
   top: 264.5px;
   width: 110px;
   height: 104.5px;
-  display: none;
 }
