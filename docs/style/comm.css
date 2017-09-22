@@ -794,3 +794,106 @@ li a {
   width: 110px;
   height: 104.5px;
 }
+
+/*impression*/
+.impression{
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+.impressionAnswer {
+  background-image: url("../images/impressionAnswer.png");
+  position: absolute;
+  left: 38px;
+  top: 1170px;
+  width: 653px;
+  height: 176px;
+}
+.impressionGrow {
+  background-image: url("../images/impressionGrow.png");
+  position: absolute;
+  left: 41px;
+  top: 1036px;
+  width: 653px;
+  height: 176px;
+}
+.impressionFlow {
+  background-image: url("../images/impressionFlow.png");
+  position: absolute;
+  left: 38px;
+  top: 900px;
+  width: 653px;
+  height: 176px;
+}
+.impressionPosition {
+  background-image: url("../images/impressionPosition.png");
+  position: absolute;
+  left: 41px;
+  top: 755px;
+  width: 653px;
+  height: 176px;
+}
+.impressionText {
+  background-image: url("../images/impressionText.png");
+  position: absolute;
+  left: 54px;
+  top: 147px;
+  width: 647px;
+  height: 565px;
+}
+
+.impressionBackground {
+  background-image: url("../images/impressionBackground.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 1561px;
+}
+
+/*official*/
+.official{
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+.officialText {
+  background-image: url("../images/officialText.png");
+  position: absolute;
+  left: 52px;
+  top: 198px;
+  width: 643px;
+  height: 4030px;
+}
+.officialBackground {
+  background-image: url("../images/officialBackground.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 4549px;
+}
+
+/*careerTalk*/
+.careerTalk{
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+.careerTalkBackground {
+  background-image: url("../images/careerTalk.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 1800px;
+}
