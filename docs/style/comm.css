@@ -664,10 +664,121 @@ li a {
 /*flow page*/
 .flowBackground {
   background-image: url("../images/flowBackground.png");
+  background-size: 100% 100%;
   position: absolute;
   left: 0px;
   top: 0px;
   width: 100%;
   height: 100%;
   overflow: hidden;
+}
+
+.flowRecordedImage {
+  background-image: url("../images/flowRecordedImage.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 496px;
+  top: 276px;
+  width: 108px;
+  height: 148px;
+  z-index: 12;
+  display: none;
+}
+.techColorDesktop {
+  background-image: url("../images/techColorDesktop.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 432px;
+  top: 511.5px;
+  width: 182px;
+  height: 145px;
+  z-index: 11;
+  display: none;
+}
+.flowClock1 {
+  background-image: url("../images/flowClock1.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 196px;
+  top: 511.5px;
+  width: 108px;
+  height: 150px;
+  z-index: 10;
+  display: none;
+}
+.flowInterview {
+  background-image: url("../images/flowInterview.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 159px;
+  top: 742.5px;
+  width: 182.5px;
+  height: 156.5px;
+  z-index: 9;
+  display: none;
+}
+.flowClock2 {
+  background-image: url("../images/flowClock2.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 481.5px;
+  top: 749px;
+  width: 108px;
+  height: 150px;
+  z-index: 8;
+  display: none;
+}
+.flowApprove {
+  background-image: url("../images/flowApprove.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 483px;
+  top: 983px;
+  width: 90.5px;
+  height: 120px;
+  z-index: 7;
+  display: none;
+}
+.flowEntry {
+  background-image: url("../images/flowEntry.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 245.5px;
+  top: 982px;
+  width: 61px;
+  height: 120.5px;
+  z-index: 6;
+  display: none;
+}
+.flowCalendar {
+  background-image: url("../images/flowCalendar.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 222px;
+  top: 274px;
+  width: 108.5px;
+  height: 150px;
+  z-index: 5;
+  display: none;
+}
+.flowRow {
+  background-image: url("../images/flowRow.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 52px;
+  top: 141.5px;
+  width: 676.5px;
+  height: 907.5px;
+  z-index: 4;
+}
+.flowLogo {
+  background-image: url("../images/flowLogo.png");
+  background-size: 100% 100%;
+  position: absolute;
+  right: 25px;
+  top: 45px;
+  width: 210.5px;
+  height: 64px;
+  z-index: 3;
+  display: none;
 }
