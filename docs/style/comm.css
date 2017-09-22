@@ -50,6 +50,8 @@ pre {
 
 a {
   text-decoration: none;
+  height:100%;
+  width:100%;
   color: #333
 }
 
@@ -513,4 +515,138 @@ body {
 .delay_7900ms {
   -webkit-animation-delay: 7.9s;
   animation-delay: 7.9s
+}
+
+.text {
+  background-image: url("../images/text.png");
+  position: absolute;
+  left: 42px;
+  top: 485px;
+  width: 666px;
+  height: 2102px;
+}
+.logo {
+  background-image: url("../images/logo.png");
+  position: absolute;
+  left: 542px;
+  top: 55px;
+  width: 171px;
+  height: 55px;
+}
+.time {
+  background-image: url("../images/time.png");
+  position: absolute;
+  left: 182px;
+  top: 233px;
+  width: 37px;
+  height: 37px;
+}
+.sun {
+  background-image: url("../images/sun.png");
+  position: absolute;
+  left: 668px;
+  top: 325px;
+  width: 54px;
+  height: 52px;
+  animation: arrow 1.5s infinite ease-in-out
+}
+
+.frutrue {
+  background-image: url("../images/frutrue.png");
+  position: absolute;
+  left: 71px;
+  top: 203px;
+  width: 636px;
+  height: 175px;
+}
+.earth {
+  background-image: url("../images/earth.png");
+  position: absolute;
+  left: 273px;
+  top: 173px;
+  width: 253px;
+  height: 258px;
+}
+.background {
+  background-image: url("../images/background.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 3148px;
+}
+
+.sun {
+  background-image: url("../images/sun.png");
+  position: absolute;
+  left: 668px;
+  top: 325px;
+  width: 54px;
+  height: 52px;
+  animation: arrow 10s infinite ease-in-out
+}
+
+@-webkit-keyframes arrow {
+  0% {
+    transform: rotate(0deg);
+  }
+  40% {
+    transform: rotate(360deg);
+  }
+  80% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.omg {
+  background-image: url("../images/omg.png");
+  opacity: 0.38;
+  position: absolute;
+  left: 29px;
+  top: 326px;
+  width: 113px;
+  height: 55px;
+}
+
+.beiJinA{
+  background-image: url("../images/beiJinA.png");
+  position: absolute;
+  left: 12px;
+  top: 2618px;
+  width: 338px;
+  height: 86px;
+}
+
+.beiJinB{
+  background-image: url("../images/beiJinB.png");
+  position: absolute;
+  right: 3px;
+  top: 2618px;
+  width: 398px;
+  height: 86px;
+}
+
+.gZA {
+  background-image: url("../images/gZA.png");
+  position: absolute;
+  width: 338px;
+  height: 86px;
+  left: 12px;
+  top: 2718px;
+}
+
+.gZB {
+  background-image: url("../images/gZB.png");
+  position: absolute;
+  right: -8px;
+  top: 2718px;
+  width: 398px;
+  height: 86px;
+}
+
+li a{
+  display: block;
 }
