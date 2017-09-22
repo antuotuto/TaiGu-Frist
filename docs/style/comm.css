@@ -681,7 +681,6 @@ li a {
   top: 276px;
   width: 108px;
   height: 148px;
-  z-index: 12;
   display: none;
 }
 .techColorDesktop {
@@ -692,7 +691,6 @@ li a {
   top: 511.5px;
   width: 182px;
   height: 145px;
-  z-index: 11;
   display: none;
 }
 .flowClock1 {
@@ -703,7 +701,6 @@ li a {
   top: 511.5px;
   width: 108px;
   height: 150px;
-  z-index: 10;
   display: none;
 }
 .flowInterview {
@@ -714,7 +711,6 @@ li a {
   top: 742.5px;
   width: 182.5px;
   height: 156.5px;
-  z-index: 9;
   display: none;
 }
 .flowClock2 {
@@ -725,7 +721,6 @@ li a {
   top: 749px;
   width: 108px;
   height: 150px;
-  z-index: 8;
   display: none;
 }
 .flowApprove {
@@ -736,7 +731,6 @@ li a {
   top: 983px;
   width: 90.5px;
   height: 120px;
-  z-index: 7;
   display: none;
 }
 .flowEntry {
@@ -747,7 +741,6 @@ li a {
   top: 982px;
   width: 61px;
   height: 120.5px;
-  z-index: 6;
   display: none;
 }
 .flowCalendar {
@@ -758,7 +751,6 @@ li a {
   top: 274px;
   width: 108.5px;
   height: 150px;
-  z-index: 5;
   display: none;
 }
 .flowRow {
@@ -769,7 +761,6 @@ li a {
   top: 141.5px;
   width: 676.5px;
   height: 907.5px;
-  z-index: 4;
 }
 .flowLogo {
   background-image: url("../images/flowLogo.png");
@@ -779,6 +770,5 @@ li a {
   top: 45px;
   width: 210.5px;
   height: 64px;
-  z-index: 3;
   display: none;
 }
