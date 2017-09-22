@@ -783,3 +783,25 @@ li a {
   height: 64px;
   display: none;
 }
+
+.flowEnd {
+  background-image: url("../images/flowEnd.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 61.5px;
+  top: 926px;
+  width: 118px;
+  height: 115px;
+  display: none;
+}
+
+.flowBegin {
+  background-image: url("../images/flowBegin.png");
+  background-size: 100% 100%;
+  position: absolute;
+  left: 69.5px;
+  top: 264.5px;
+  width: 110px;
+  height: 104.5px;
+  display: none;
+}
