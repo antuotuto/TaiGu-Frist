@@ -897,3 +897,41 @@ li a {
   width: 750px;
   height: 1800px;
 }
+
+/*peopleStory*/
+.peopleStory{
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.peopleStoryBackgrond {
+  background-image: url("../images/peopleStory.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 4831px;
+}
+
+/*staffStory*/
+.staffStory{
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.staffStoryBackgrond {
+  background-image: url("../images/staffStory.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 6274px;
+}
